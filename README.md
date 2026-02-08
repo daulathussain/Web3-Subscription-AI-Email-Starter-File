@@ -2,7 +2,7 @@
 
 ![alt text](https://www.daulathussain.com/wp-content/uploads/2026/02/Build-a-Web3-Subscription-AI-Email-Automation-SaaS-Next.js-Crypto-Payments.jpg)
 
-- [Final Source Code]()
+- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/build-a-web3-subscription-ai-email-automation-saas-next.js-+-crypto-payments)
 
 #### Setup Video
 
